@@ -21,7 +21,7 @@ export default function Home() {
   }, []);
 
   return (
-    <main className="relative min-h-screen bg-midnight text-white flex flex-col items-center justify-center overflow-hidden p-6 select-none">
+    <main className="relative min-h-screen bg-[#0B0F19] text-white flex flex-col items-center justify-center overflow-hidden p-6 select-none">
       
       {/* 🔮 Dynamic Cursor Glow Trail */}
       <motion.div 
