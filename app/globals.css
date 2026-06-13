@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght=0,400..900;1,400..900&family=Plus+Jakarta+Sans:ital,wght=0,200..800;1,200..800&display=swap');
 @import "tailwindcss";
 
 :root {
@@ -7,6 +8,8 @@
   --color-lavenderGlow: #E2CBF7;
   --color-roseGlow: #FBCFE8;
 }
+
+/* Leave everything else below this exactly as it was */
 
 /* Enforce premium background canvas across mobile & desktop */
 html, body {

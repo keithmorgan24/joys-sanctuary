@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Joy's Sanctuary",
-  description: "A safe space crafted with love.",
+  title: "To My Favourite Person",
+  description: "A premium safe space crafted with love.",
 };
 
 export default function RootLayout({
