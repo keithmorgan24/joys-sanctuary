@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+:root {
+  --color-midnight: #0B0F19;
+  --color-lavenderGlow: #E0C3FC;
+  --color-roseGlow: #FBCFE8;
+  
+  /* Our secret recipe for ultra-smooth animations */
+  --ease-fluid-ease: cubic-bezier(0.16, 1, 0.3, 1);
+}
