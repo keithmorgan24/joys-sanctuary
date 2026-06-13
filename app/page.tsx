@@ -318,7 +318,7 @@ export default function Home() {
               </p>
 
               <p className="text-sm md:text-base text-transparent bg-clip-text bg-gradient-to-r from-lavenderGlow via-white to-roseGlow max-w-xl font-medium tracking-wide pt-2">
-                You are beautiful on a shaaa shaaa level😂😂, Joy, and I am not going anywhere. Take all the time you need to heal. When you are finally okay, only then will I be okay.
+                You are beautiful on a shaaa shaaa level😝😂🫶🫰✨☺️, Joy, and I am not going anywhere. Take all the time you need to heal. When you are finally okay, only then will I be okay.
               </p>
               <p className="text-xs md:text-sm text-slate-400/90 max-w-xl leading-relaxed font-light tracking-wide">
                 Just remember that you are not alone and you have...I may not be much but I am here for you and I will always be here for you. I love you so much, Joy. You are the best thing that ever happened to me and I am so grateful to have you in my life. You are my sunshine on a cloudy day, and I will always cherish our bond. No matter what happens, I will always be by your side, supporting you and loving you unconditionally.
