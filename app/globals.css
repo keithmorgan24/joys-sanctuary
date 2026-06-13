@@ -1,22 +1,34 @@
 @import "tailwindcss";
 
 :root {
-  --color-midnight: #0B0F19;
-  --color-lavenderGlow: #E0C3FC;
+  --font-serif: 'Playfair Display', serif;
+  --font-sans: 'Plus Jakarta Sans', sans-serif;
+  --color-midnight: #070A13;
+  --color-lavenderGlow: #E2CBF7;
   --color-roseGlow: #FBCFE8;
 }
 
-/* Force the entire web view to be dark by default */
+/* Enforce premium background canvas across mobile & desktop */
 html, body {
-  background-color: #0B0F19 !important;
+  background-color: #070A13 !important;
   color: #ffffff;
   margin: 0;
   padding: 0;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Custom Typography Utility Overrides */
+.font-serif-luxury {
+  font-family: var(--font-serif);
+}
+
+.font-sans-luxury {
+  font-family: var(--font-sans);
 }
 
 @theme {
-  --color-midnight: #0B0F19;
-  --color-lavenderGlow: #E0C3FC;
+  --color-midnight: #070A13;
+  --color-lavenderGlow: #E2CBF7;
   --color-roseGlow: #FBCFE8;
   --ease-fluid-ease: cubic-bezier(0.16, 1, 0.3, 1);
 }
