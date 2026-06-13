@@ -52,11 +52,11 @@ export default function Home() {
               </span>
               
               <h1 className="text-4xl md:text-6xl font-light tracking-wide text-transparent bg-clip-text bg-gradient-to-b from-white via-slate-200 to-slate-400 font-serif-luxury italic py-2 leading-tight">
-                The strongest firstborn daughter, <br /> and the brightest light.
+                The strongest firstborn daughter, <br /> and my very own role model.
               </h1>
               
               <p className="text-xs md:text-sm text-slate-400/80 max-w-md leading-relaxed font-light tracking-wide">
-                I built this sanctuary just for you, Joy. Take a slow, deep breath, leave the heavy world outside for a moment, and step forward.
+                I built this space just for you, Joy. Take a slow, deep breath, leave the heavy world outside for a moment, and step forward.
               </p>
 
               <button
@@ -84,11 +84,11 @@ export default function Home() {
               </div>
 
               <h2 className="text-3xl md:text-5xl font-light font-serif-luxury italic text-slate-200 py-1 tracking-wide leading-snug">
-                You don't have to be strong here.
+                You don't have to be strong around me.
               </h2>
 
               <p className="text-xs md:text-sm text-slate-400/90 max-w-xl leading-relaxed font-light tracking-wide">
-                Everyone around you expects you to be the pillar right now. To be strong for your mom, to carry the weight for your siblings. You are doing amazingly well... but in this space, you don't have to be the firstborn shield.
+                Everyone around you expects you to be the pillar right now. To be strong for your mom, to carry the weight for your siblings. You are doing amazingly well... but in this space and next to me, you don't have to be the firstborn shield.
               </p>
               
               <p className="text-xs md:text-sm text-lavenderGlow max-w-xl leading-relaxed font-light tracking-wide pt-2">
@@ -134,7 +134,7 @@ export default function Home() {
               </h2>
 
               <p className="text-xs md:text-sm text-slate-400/90 max-w-xl leading-relaxed font-light tracking-wide">
-                I cannot feel your exact pain, but I can stand right beside you while you process it. I want you to know that my intentions are completely pure, and I am genuinely hurting when you are hurting.
+                I cannot feel your exact pain,i can only imagine it, but I can stand right beside you while you process it. I want you to know that my intentions are completely pure, and I am genuinely hurting when you are hurting.
               </p>
               
               <p className="text-xs md:text-sm text-slate-300 max-w-xl leading-relaxed font-light tracking-wide pt-2">
@@ -146,7 +146,7 @@ export default function Home() {
                   onClick={() => setActivePage(4)}
                   className="group flex items-center space-x-3 bg-white/[0.02] border border-white/10 hover:border-white/30 hover:bg-white/[0.06] px-8 py-3.5 rounded-full transition-all duration-500 text-xs tracking-[0.2em] uppercase"
                 >
-                  <span>A Message for Him</span>
+                  <span>A sweet message</span>
                   <ArrowRight className="w-3.5 h-3.5 text-roseGlow group-hover:translate-x-1.5 transition-transform duration-500 ease-fluid-ease" />
                 </button>
 
@@ -176,13 +176,19 @@ export default function Home() {
               </div>
 
               <h2 className="text-3xl md:text-5xl font-light font-serif-luxury italic text-transparent bg-clip-text bg-gradient-to-b from-lavenderGlow to-roseGlow py-1 tracking-wide leading-tight">
-                Let's never forget him.
+                Let's never forget your dad.
               </h2>
+
+              <p className="text-xs md:text-sm text-slate-400/90 max-w-xl leading-relaxed font-light tracking-wide">
+                I never told you my tribute coz i was low-key scared but wee jua he was a great person and dad like i mean look at you...You are his greatest work of art...Fine gal with a pure soul and good heart like that's why i look up to you...He did a good job raising you now you just have to keep on shining and making him proud place ako sahii</p>
 
               <p className="text-xs md:text-sm text-slate-400/90 max-w-xl leading-relaxed font-light tracking-wide">
                 Personally, I will never let his memory fade. When you are strong enough in the future, we can talk about him freely, celebrate his birthdays, and honor the day he passed.
               </p>
-              
+
+              <p className="text-xs md:text-sm text-slate-400/90 max-w-xl leading-relaxed font-light tracking-wide">
+              When that time comes I'll also share with you my trauma and hurts and scars and everything</p>
+
               <p className="text-xs md:text-sm text-transparent bg-clip-text bg-gradient-to-b from-white to-slate-300 max-w-xl leading-relaxed font-medium tracking-wide pt-2">
                 He might have passed on, but his beautiful light is still shining brilliantly inside you, your siblings, and your mom. I know with absolute certainty that he is super proud to have you as his daughter, and as he watches over y'all from above, he is filled with so much pride.
               </p>
@@ -226,7 +232,7 @@ export default function Home() {
               </h2>
 
               <p className="text-xs md:text-sm text-slate-400/90 max-w-xl leading-relaxed font-light tracking-wide">
-                I know I’m not always the most perfect communicator, and sometimes I might say or do things without realizing they hurt. Because you are so incredibly important to me, I want this to be the safest relationship you have.
+                I know I’m not always the most perfect communicator, and sometimes I might say or do things without realizing they hurt. Because you are so incredibly important to me,i don't even want to dreeam of hurting you, I want this to be the safest relationship you have.
               </p>
               
               <p className="text-xs md:text-sm text-lavenderGlow max-w-xl leading-relaxed font-medium tracking-wide pt-2">
@@ -272,7 +278,13 @@ export default function Home() {
               </p>
 
               <p className="text-sm md:text-base text-transparent bg-clip-text bg-gradient-to-r from-lavenderGlow via-white to-roseGlow max-w-xl font-medium tracking-wide pt-2">
-                You are radiantly beautiful, Joy, and I am not going anywhere. Take all the time you need to heal. When you are finally okay, only then will I be okay.
+                You are beautiful on a shaaa shaaa level😂😂, Joy, and I am not going anywhere. Take all the time you need to heal. When you are finally okay, only then will I be okay.
+              </p>
+              <p className="text-xs md:text-sm text-slate-400/90 max-w-xl leading-relaxed font-light tracking-wide">
+              Just remember that you are not alone and you have...I may not be much but I am here for you and I will always be here for you. I love you so much, Joy. You are the best thing that ever happened to me and I am so grateful to have you in my life. You are my sunshine on a cloudy day, and I will always cherish our bond. No matter what happens, I will always be by your side, supporting you and loving you unconditionally.
+              </p>
+              <p className="text-xs md:text-sm text-slate-400/90 max-w-xl leading-relaxed font-light tracking-wide">
+              Love you mamaa 💝🫶😝☺️✨🫰
               </p>
 
               <button
